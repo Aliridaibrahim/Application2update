@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197798754776",
+    "project_id": "chat-309b9",
+    "storage_bucket": "chat-309b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197798754776:android:a29fe88f2e7b2524cf1aad",
+        "android_client_info": {
+          "package_name": "com.example.dokanj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197798754776-15dd8cgmma2o60remgs9lrpc3s0b25jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLy60KMeUfUPai6EXnVLSTLgeUWZns5ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197798754776-15dd8cgmma2o60remgs9lrpc3s0b25jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
